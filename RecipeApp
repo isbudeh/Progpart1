@@ -2,3 +2,4 @@ git init
 git add .
 git commit -m "Commit 1: Added basic recipe management functionality to the console application."
 
+git commit -m "Commit 2: Added ingredients to the recipe."
