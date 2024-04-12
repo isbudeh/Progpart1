@@ -11,3 +11,5 @@ git commit -m "Commit 4: Added steps to the recipe."
 git commit -m "Commit 5: Added user interface for adding and listing steps."
 
 git commit -m "Commit 6: Added recipe scaling functionality."
+
+git commit -m "Commit 7: Added user interface for setting and listing recipe scale factor."
