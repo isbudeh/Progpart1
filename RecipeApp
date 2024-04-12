@@ -24,4 +24,6 @@ git commit -m "Commit 11: Added test-driven development functionality."
 
 git commit -m "Commit 12: Configured tests for each method using NUnit and Moq."
 
+git commit -m "Commit 13: Added test cases to ensure each method is working correctly."
+
 
