@@ -5,3 +5,5 @@ git commit -m "Commit 1: Added basic recipe management functionality to the cons
 git commit -m "Commit 2: Added ingredients to the recipe."
 
 git commit -m "Commit 3: Added user interface for adding and listing ingredients."
+
+git commit -m "Commit 4: Added steps to the recipe."
