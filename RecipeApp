@@ -21,3 +21,7 @@ git commit -m "Commit 9: Added user interface for resetting the recipe."
 git commit -m "Commit 10: Refactored the code for better organization and readability."
 
 git commit -m "Commit 11: Added test-driven development functionality."
+
+git commit -m "Commit 12: Configured tests for each method using NUnit and Moq."
+
+
