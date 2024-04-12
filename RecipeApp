@@ -27,3 +27,5 @@ git commit -m "Commit 12: Configured tests for each method using NUnit and Moq."
 git commit -m "Commit 13: Added test cases to ensure each method is working correctly."
 
 git commit -m "Commit 14: Implemented user interface for adding steps and ingredients."
+
+git commit -m "Commit 15: Implemented user interface for scaling and resetting recipes."
