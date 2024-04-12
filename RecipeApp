@@ -3,3 +3,5 @@ git add .
 git commit -m "Commit 1: Added basic recipe management functionality to the console application."
 
 git commit -m "Commit 2: Added ingredients to the recipe."
+
+git commit -m "Commit 3: Added user interface for adding and listing ingredients."
